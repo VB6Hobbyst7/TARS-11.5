@@ -1,0 +1,495 @@
+[INIT]
+NumPremios=30
+
+[PREMIO1]
+Nombre=Sombrero de Baile
+NumObj=1494
+Requiere=200
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=8
+DefensaMaxima=11
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=21
+DefensaMagicaMaxima=24
+Descripcion=Sombrero forjado por los dioses de la antigua tanaris.
+
+[PREMIO2]
+Nombre=Arco Argentum
+NumObj=1495
+Requiere=200
+AtaqueMinimo=13
+AtaqueMaximo=15
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Arco hecho por los dioses en las primeras eras del mundo. 
+
+[PREMIO3]
+Nombre=Casco de las Sombras
+NumObj=1496
+Requiere=200
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=12
+DefensaMaxima=17
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=14
+DefensaMagicaMaxima=17
+Descripcion=Casco creado en tiempos antiguos por las artes oscuras su resistencia a los ataques fisicos es muy alta.
+
+[PREMIO4]
+Nombre=Escudo Soberano
+NumObj=1497
+Requiere=70
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=16
+DefensaMaxima=16
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion= 
+
+[PREMIO5]
+Nombre=Armadura Heroica (Altos)
+NumObj=1498
+Requiere=200
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=71
+DefensaMaxima=73
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Armadura que pertenecio a uno de los heroes mas memorables de la historia. Es una coraza de gran resitenciante los ataques fisicos.
+
+[PREMIO6]
+Nombre=Armadura Heroica (Bajos)
+NumObj=1499
+Requiere=200
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=71
+DefensaMaxima=73
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Armadura que pertenecio a uno de los heroes mas memorables de la historia. Es una coraza de gran resitenciante los ataques fisicos.
+
+[PREMIO7]
+Nombre=Daga Infernal
+NumObj=1500
+Requiere=200
+AtaqueMinimo=12
+AtaqueMaximo=13
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Creada en lo profundo de los infiernos esta daga puede atravesar cualquier defensa y causar un gran daño a la victima.
+
+[PREMIO8]
+Nombre=Escudo de Luz
+NumObj=1501
+Requiere=200
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=20
+DefensaMaxima=23
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=3
+DefensaMagicaMaxima=3
+Descripcion=Escudo hecho con las mas grandes almas de los dioses de la luz.
+
+[PREMIO9]
+Nombre=Escudo de Almas
+NumObj=1502
+Requiere=200
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=17
+DefensaMaxima=17
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion= 
+
+[PREMIO10]
+Nombre=Sable Espiritual
+NumObj=1503
+Requiere=200
+AtaqueMinimo=12
+AtaqueMaximo=19
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Una de las primeras armas creadas por los dioses. 
+
+[PREMIO11]
+Nombre=Espada Argentum
+NumObj=1504
+Requiere=200
+AtaqueMinimo=24
+AtaqueMaximo=26
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=12
+AtaqueMagicoMaximo=12
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Una de las primeras armas creadas por los dioses. Posee un enorme poder ofensivo.
+
+[PREMIO12]
+Nombre=Espada del Balrog
+NumObj=1505
+Requiere=200
+AtaqueMinimo=24
+AtaqueMaximo=26
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Perteneciente al demonio Balrog es considerada la espada mas poderosa que haya existido. Su poder de ataque es devastador.
+
+[PREMIO13]
+Nombre=Escudo Tenebroso
+NumObj=1506
+Requiere=200
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=20
+DefensaMaxima=20
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=1
+DefensaMagicaMaxima=1
+Descripcion=Escudo de clerigo.
+
+[PREMIO14]
+Nombre=Anillo de los Dioses
+NumObj=1507
+Requiere=200
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=15
+DefensaMagicaMaxima=18
+Descripcion=Anillo forjado por los dioses en tiempos remotos que le dará a quien lo posee una increíble resistencia a los ataques mágicos.
+
+[PREMIO15]
+Nombre=Cetro de Archimago
+NumObj=1508
+Requiere=200
+AtaqueMinimo=1
+AtaqueMaximo=1
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=30
+AtaqueMagicoMaximo=35
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Pertenecio a uno de los magos mas poderosos que existieron. Puede aumentar enormemente el poder de los hechizos.
+
+[PREMIO16]
+Nombre=Casco de Gladiador
+NumObj=1509
+Requiere=200
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=10
+DefensaMaxima=15
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=12
+DefensaMagicaMaxima=15
+Descripcion= 
+
+[PREMIO17]
+Nombre=Casco de Luz
+NumObj=1510
+Requiere=200
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=29
+DefensaMaxima=29
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion= 
+
+[PREMIO18]
+Nombre=Espada de las Almas
+NumObj=1511
+Requiere=200
+AtaqueMinimo=17
+AtaqueMaximo=20
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=12
+AtaqueMagicoMaximo=12
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Espada mágica echa con las almas de cientos de guerreros. Tiene un gran poder de ataque. 
+
+[PREMIO19]
+Nombre=Escudo de Dragón
+NumObj=1512
+Requiere=200
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=23
+DefensaMaxima=25
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Escudo echo con las escamas de un Gran Dragón Rojo. Tiene un poder de defensa exepcional.
+
+[PREMIO20]
+Nombre=AArmadura de Dragón Oscuro (Altos)
+NumObj=1513
+Requiere=200
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=72
+DefensaMaxima=69
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion= 
+
+[PREMIO21]
+Nombre=Armadura de Dragón Oscuro (Bajos)
+NumObj=1514
+Requiere=200
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=72
+DefensaMaxima=69
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion= 
+
+[PREMIO22]
+Nombre=Corona
+NumObj=1515
+Requiere=200
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=15
+DefensaMagicaMaxima=18
+Descripcion=Corona que pertenecio a un Dios. Tiene un enorme poder de resistencia mágica.
+
+[PREMIO23]
+Nombre=Laúd Mágico
+NumObj=1516
+Requiere=200
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=20
+AtaqueMagicoMaximo=25
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Este legendario Laud Mágico potencia los ataques mágicos de los bardos.
+ 
+[PREMIO24]
+Nombre=Túnica Apocalíptica (Altos)
+NumObj=1517
+Requiere=180
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=15
+DefensaMaxima=25
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=15
+DefensaMagicaMaxima=20
+Descripcion=La túnica mas poderosa que la clase mágica pueda usar.
+
+[PREMIO25]
+Nombre=Túnica Apocalíptica (Bajos)
+NumObj=1518
+Requiere=180
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=15
+DefensaMaxima=25
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=15
+DefensaMagicaMaxima=20
+Descripcion=La túnica mas poderosa que la clase mágica pueda usar.
+
+[PREMIO26]
+Nombre=Manto Alado (Altos)
+NumObj=1519
+Requiere=180
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=45
+DefensaMaxima=50
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=10
+DefensaMagicaMaxima=15
+Descripcion=Túnica hecha por los dioses en tiempos antiguos. Se dice que el que la use será invencible.
+
+[PREMIO27]
+Nombre=Manto Alado (Bajos)
+NumObj=1520
+Requiere=180
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=45
+DefensaMaxima=50
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=10
+DefensaMagicaMaxima=15
+Descripcion=Túnica hecha por los dioses en tiempos antiguos. Se dice que el que la use será invencible.
+
+[PREMIO28]
+Nombre=Pergamino del Regreso
+NumObj=1270
+Requiere=5
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Este pergamino contiene un hechizo que al usarlo te permitira regresar a tu ciudad de origen. Sólo se puede utilizar una vez.
+
+[PREMIO29]
+Nombre=Pendiente del Sacrificio
+NumObj=936
+Requiere=120
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Al portador de este pendiente no se le caeran los objetos al morir (1 USO).
+
+[PREMIO30]
+Nombre=Acta de Fundación
+NumObj=1048
+Requiere=500
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=El acta de fundación te permitirá fundar tu propio clan. Sólo se puede utilizar una vez.
+
+
+
+'NO SE UTILIZA
+[PREMIO277]
+Nombre=Túnica de los Campeones (Altos)
+NumObj=1055
+Requiere=1200
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=45
+DefensaMaxima=50
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Túnica de los campeones altos utilizada por cualquier clase.
+
+[PREMIO28]
+Nombre=Túnica de los Campeones (Bajos)
+NumObj=1056
+Requiere=1200
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=45
+DefensaMaxima=50
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=Túnica de los campeones bajos utilizada por cualquier clase.
+
+[PREMIO29]
+Nombre=Túnica Perseus (Altos)
+NumObj=1215
+Requiere=4000
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=18
+DefensaMaxima=28
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=18
+DefensaMagicaMaxima=23
+Descripcion=Túnica con gran defensa magica/fisica.
+
+[PREMIO30]
+Nombre=Túnica Perseus (Bajos)
+NumObj=1214
+Requiere=4000
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=18
+DefensaMaxima=28
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=18
+DefensaMagicaMaxima=23
+Descripcion=Túnica con gran defensa magica/fisica.
+
+[PREMIO31]
+Nombre=Tiara Dorada
+NumObj=1035
+Requiere=3500
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=10
+DefensaMaxima=10
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=24
+DefensaMagicaMaxima=26
+Descripcion=Túnica con gran defensa magica/fisica.

@@ -1,0 +1,60 @@
+//ESTRUCTURA: 
+//OBJX=NUMERO DE ITEM-CANTIDAD 
+//ITEMNOBLENUMERO=X El item de noble que se van a construir con esos ingredientes
+//ITEMSREQUERIDOS=X Cantidad de items nesesarios y OBJX que vas a hacer. EJ: Si pones requeridos = 2 creas 2 OBJ1 OBJ2.
+
+[INIT]
+NumItems=4
+
+[ITEM1]'Diadema De Oro
+ItemsRequeridos=9
+OBJ1=388-10000
+OBJ2=1027-2
+OBJ3=411-1
+OBJ4=413-4
+OBJ5=412-2
+OBJ6=407-1
+OBJ7=869-40
+OBJ8=1047-1
+OBJ9=895-1
+ItemNobleNumero=1075
+
+[ITEM2]'Armadura de Ancalagon
+ItemsRequeridos=9
+OBJ1=388-10000
+OBJ2=411-2
+OBJ3=408-4
+OBJ4=406-2
+OBJ5=865-1
+OBJ6=862-1
+OBJ7=932-1
+OBJ8=1047-1
+OBJ9=895-1
+ItemNobleNumero=1073
+
+[ITEM3]'Espada Maligna
+ItemsRequeridos=10
+OBJ1=388-10000
+OBJ2=410-2
+OBJ3=407-2
+OBJ4=888-1
+OBJ5=857-1
+OBJ6=903-1
+OBJ7=877-50
+OBJ8=858-20
+OBJ9=1047-1
+OBJ10=895-1
+ItemNobleNumero=1074
+
+[ITEM4]'Anillo Del Rey
+ItemsRequeridos=9
+OBJ1=388-10000
+OBJ2=1053-2
+OBJ3=406-2
+OBJ4=410-1
+OBJ5=864-3
+OBJ6=879-2
+OBJ7=861-100
+OBJ8=1047-1
+Obj9=895-1
+ItemNobleNumero=1076

@@ -1,0 +1,82 @@
+[Main]
+Tutos=13
+
+Text15=Esta es la pantalla de juego. Usa las flechas direccionales para moverte. Podes agarrar objetos con la tecla "A", atacar con "Control", sacar fotos con la "F", con la "H" ves el mapa del mundo. Podes cambiar los controles en Opciones >Teclas
+
+[Tuto1]
+Text=Esta es la pantalla de juego. Usa las flechas direccionales para moverte. Podes agarrar objetos con la tecla "A", atacar con "Control", sacar fotos con la "F", con la "H" ves el mapa del mundo. Podes cambiar los controles en Opciones >Teclas
+Left=264
+Top=-2
+Mode=DownR
+
+[Tuto2]
+Text=Podes enviar comandos o hablar con los demas usuarios mediante la barra de chat. Activala apretando la tecla "Enter", despues escribis tu texto o algun comando seguido de "Enter" para enviarlo. Ejemplo: "Enter" Hola "Enter", o "Enter" /COMERCIAR "Enter"
+Left=32
+Top=-8
+Mode=DownL
+
+[Tuto3]
+Text=Este es tu INVENTARIO, seleccionas objetos con click izquierdo del mouse, podes equiparte o desequiparte con el click derecho. Con la tecla "T" tiras objetos y con la tecla "E" equipas/desequipas. Podes cambiar los controles en Opciones > Controles. Usa el boton D & D para activar el modo Drag & Drop.
+Left=536
+Top=67
+Mode=DownC
+
+[Tuto4]
+Text=Utiliza estos 2 botones para pasar de modo INVENTARIO o HECHIZOS. En el modo HECHIZOS podes ver una lista de todos tus hechizos disponibles, para lanzar uno lo seleccionas con click izquierdo, despues en el boton Lanzar y despues en tu objetivo. Podes ver la informacion del hechizo con el boton INFO.
+Left=536
+Top=5
+Mode=DownR
+
+[Tuto5]
+Text=Estas 5 barras representan la condicion de tu personaje. La SALUD  es el daño que soporta tu personaje antes de morir. MANA se gasta lanzando hechizos. HAMBRE y SED bajan naturalmente. Tenes que comer y beber porque si llega a 0 perdes ENERGIA. La ENERGIA se usa para todo tipo de acciones.
+Left=536
+Top=287
+Mode=DownL
+
+[Tuto6]
+Text=Este es el ORO de tu personaje. El oro se usa para todo tipo de cosas: Comprar objetos, subastas, duelos, etc. Podes conseguir oro matando criaturas, realizando quest, ganando duelos o desafios, conquistando castillos, participando en eventos, etc.
+Left=536
+Top=313
+Mode=DownR
+
+[Tuto7]
+Text=Esta es la CONSOLA, aca recibis todo tipo de informacion del servidor: Experiencia recibida, daño hecho o recibido, duelos, subastas, torneos, desafios o CVCs que se esten realizando, mensajes de los GMs, informacion de tu personaje, etc. Podes guardar la consola con el comando "/SAVE"
+Left=64
+Top=0
+Mode=Central
+
+[Tuto8]
+Text=Esta es la LISTA DE CONTACTOS, podes agregar amigos haciendo click derecho y seleccionando "Agregar contacto", podes realizar otras acciones como borrar o desadmitirlos tambien. Se puede tener hasta 20 contactos. El sistema te avisa cada ves que un contacto entra o sale del juego.
+Left=352
+Top=0
+Mode=Central
+
+[Tuto9]
+Text=Aca se muestra tu NIVEL, EXP y EXP nesesaria para pasar al proximo nivel. El nivel maximo es 50 mas otros 10 niveles extras especiales donde podes elegir tus "Bonificadores de clase". Al subir un nivel aparecera un "+" al lado del numero del nivel. Clickeandolo podes asignar puntos a tus habilidades.
+Left=536
+Top=8
+Mode=Central
+
+[Tuto10]
+Text=La barra inferior izquierda muestra distintas informaciones utiles. De izquierda a derecha son: Los FPS (Frames per second), el numero de usuarios Online, tu DEFENSA MÁGICA, tu ATAQUE FISICO, tu DEFENSA, tu AGILIDAD y tu FUERZA.
+Left=536
+Top=431
+Mode=DownL
+
+[Tuto11]
+Text=La parte inferior derecha se muestra tu pocicion en coordenadas X e Y y el Mapa en el que estas. A la derecha estan los "seguros": El seguro de clan que se activa/desactiva con S, el de objetos que se activa/desactiva con * y si tenes o no activado el macro de trabajo o hechizos.
+Left=536
+Top=431
+Mode=DownR
+
+[Tuto12]
+Text=Utiliza el boton "GM" para enviar una consulta a los Game Masters, los GMs son los encargados de ayudar y mantener el orden dentro del juego. Por favor escribi tu consulta con el maximo detalle posible y siempre con respeto, los GMs estan para ayudar no para servir y tienen el deber de penar las faltas.
+Left=536
+Top=431
+Mode=DownL
+
+[Tuto13]
+Text=Esto concluye el Tutorial inicial, para mayor informacion no olvides consultar nuestro foro en www.tierras-perdidas.com/f/ o el manual completo en nuestra web. ¡El Staff de TPAO te desea mucha suerte en tu nueva aventura en estas tierras!
+Left=536
+Top=250
+Mode=Central

@@ -1,0 +1,36 @@
+CONSEJEROS:
+
+"/CTORNEO" = Cancela/Activa la creacion de torneos por usuarios. RECORDAR
+REACTIVAR AL FINALIZAR UN TORNEO.
+
+SEMI DIOSES:
+
+"/BAN NICK@MOTIVO@TIEMPO" = Banea a un usuario por MOTIVO durante TIEMPO dias. Usar 0 para baneo permanente.
+
+"/CHEAT NICK" = Pasa el escaneador de Chits sobre NICK. (No abusar de esto que al user lo lagea.
+
+DIOSES:
+
+"/BANACC NICK o CUENTA" = Banea una cuenta, usar el NICK del pj si esta online y el nombre de la cuenta si el pj esta offline.
+
+"/BORRARPJ NICK" = Borra a un PJ, cuidado con esto es IRREVERSIBLE. 
+
+"/CLON" = Clona el item parado
+
+"/MASSDEST" = Borra todo el oro en el mapa.
+
+DIRECTOR DE GMS:
+
+"/JEFEFACCION NICK" = Hace jefe de faccion a NICK
+
+"/HACERITEM ITEM@CANTIDAD" = Hace un item, maximo 100.000.
+
+"/UNBANACC CUENTA" = Unbanea una cuenta
+
+ADMINISTRADORES:
+
+"/DELRAN" = Resetea el Ranking
+
+"/BLOKEAR NICK" = Tolerancia 0, bloquea por siempre el cliente de NICK, IRREVERSIBLE.
+
+"/DESTROY NICK" = Banea el pj, la ip, la cuenta y despues bloquea el cliente de NICK, IRREVERSIBLE.

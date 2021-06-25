@@ -1,0 +1,21 @@
+*Sistema de gran poder -Tomi
+*Se arreglo los nicks de los GMs ya que el rango del gm aparecia muy abajo
+De los clanes tambn -Tomi
+*Macros Estilo IAO -KejMut
+*Textos atraves de textura -KejMut
+*Desvanecimiento de arboles -Tomi
+*Evento de matar al GM: -Tomi
+Funcionamiento: El gm pone /eventomatarme puntos de torneo@vida y mana, es decir doy un ejemplo. El gm pone /eventomatarme 66@10000. Avisara por consola que el gm esta haciendo ese evento, el que lo mate ganara 66 puntos de torneo y el gm tiene 10000 de vida y de mana.Para saber la ubicación del gm /Dondegm.
+*Sistema de Mañana, Dia, Tarde y Noche con comandos. Un GM puede utilizar los comandos /MAÑANA, /DIA, /TARDE y /NOCHE. -Tomi
+*Nuevos mapas: 283 y 284 (Faltan Terminarlos y miles cosas mas) -Tomi
+*Se agrego la Runa de teletransportacion -Tomi y KejMut ------------------------------------Fixear para que se concentre con una barra de proogreso arriba del user estilo IAO
+*Se agrego los stats del personaje en consola entre ellos: Clase,Nivel,Raza,etc -Tomi
+*Se acomodo el frmMain entre ellos labels, commandButtons y demas -Tomi
+*Se agrego un sistema de ranking -Tomi
+*Click secundario para equipar el item -Tomi
+*Se agrego y se indexo la tunica apocalipsis en canjes -Tomi
+*Se cambio la interfaz de Conectar (Todavia no sabemos el nombre del AO) -Tomi
+*Se cambio la interfaz main(MINIMAMENTE) -Tomi
+*Se agrego Sistema de dioses (IGUAL QUE TPAO) -KejMut
+*Se indexo el contenedor de almas y los cristales -Tomi
+*Se fixeo las letras suben a las cabezas -KejMut

@@ -1,0 +1,4 @@
+Bienvenido a este mini manual del servidor, aca podes aprender sobre las 
+novedades del servidor tales como comandos nuevos y demas. Para una 
+información mas detallada te sugerimos que leas el manual completo de la 
+web.

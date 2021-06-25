@@ -1,0 +1,7 @@
+    Dim i As Integer
+    For i = 1 To NUMSKILLS
+        frmSkills3.Text1(i).Caption = UserSkills(i)
+    Next i
+    Alocados = SkillPoints
+    frmSkills3.Puntos.Caption = "Puntos:" & SkillPoints
+    frmSkills3.Show , frmMain

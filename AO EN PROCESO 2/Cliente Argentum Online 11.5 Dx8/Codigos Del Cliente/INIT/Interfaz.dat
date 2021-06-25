@@ -1,0 +1,16 @@
+'ACA VA EL NUMERO DE INTERFACES TOTALES
+[MAIN]
+Interfaces=10
+
+'ACA VA LA LISTA DE LAS INTERFACES INSTALADAS
+[INTERFACES]
+N1=Principal
+N2=Caida
+N3=Diablo
+N4=Celestial
+N5=Infernal
+N6=Rjuch~
+N7=Dragon
+N8=Virtual
+N9=Floop
+N10=Feer

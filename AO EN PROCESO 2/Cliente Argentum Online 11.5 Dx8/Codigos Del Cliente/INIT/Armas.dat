@@ -1,0 +1,449 @@
+[INIT]
+NumArmas=65
+
+[Arma1]
+Dir1=4719
+Dir2=4721
+Dir3=4718
+Dir4=4720
+
+[Arma3]
+Dir1=4723
+Dir2=4725
+Dir3=4722
+Dir4=4724
+
+'Garrote
+[ARMA4]
+Dir1=10269
+Dir2=10271
+Dir3=10268
+Dir4=10270
+
+'Cimitarra
+[ARMA5]
+Dir1=10295
+Dir2=10297
+Dir3=10294
+Dir4=10296
+
+'Vara de mago
+[ARMA6]
+Dir1=10321
+Dir2=10323
+Dir3=10320
+Dir4=10322
+
+'Arco
+[ARMA7]
+Dir1=10467
+Dir2=10469
+Dir3=10466
+Dir4=10468
+
+'vara de fresno
+[Arma8]	
+Dir3=955
+Dir1=956
+Dir4=957
+Dir2=958
+
+'baston nudoso
+[Arma9]	
+Dir3=982
+Dir1=983
+Dir4=984
+Dir2=985
+
+'baculo engarzado
+[Arma10]	
+Dir3=1009
+Dir1=1010
+Dir4=1011
+Dir2=1012
+
+'hunter's composite long bow
+[Arma11]	
+Dir3=1048
+Dir1=1049
+Dir4=1050
+Dir2=1051
+
+'daga chota
+[Arma12]	
+Dir3=1311
+Dir1=1312
+Dir4=1313
+Dir2=1314
+
+
+'SILVER SWORD
+[Arma13]
+Dir3=13331
+Dir1=13332
+Dir4=13333
+Dir2=13334
+
+'short sword
+[Arma14]
+Dir3=13357
+Dir1=13358
+Dir4=13359
+Dir2=13360
+
+'dragon slayer long sword
+[Arma15]
+Dir3=13383
+Dir1=13384
+Dir4=13385
+Dir2=13386
+
+'Alforja
+[Arma16]
+Dir3=3607
+Dir1=3608
+Dir4=3609
+Dir2=3610
+
+'Mochila
+[Arma17]
+Dir3=3633
+Dir1=3634
+Dir4=3635
+Dir2=3636
+
+'Zamak
+[Arma18]
+Dir3=20412
+Dir1=20413
+Dir4=20414
+Dir2=20415
+
+'Daga quodar
+[Arma19]
+Dir3=20709
+Dir1=20710
+Dir4=20711
+Dir2=20712
+
+'Arco de los bosques
+[Arma20]
+Dir3=20736
+Dir1=20737
+Dir4=20738
+Dir2=20739
+
+'Espada glacial
+[Arma21]
+Dir3=20817
+Dir1=20818
+Dir4=20819
+Dir2=20820
+
+'sable
+[Arma22]
+Dir3=20925
+Dir1=20926
+Dir4=20927
+Dir2=20928
+
+'rompecascos
+[Arma23]
+Dir3=21033
+Dir1=21034
+Dir4=21035
+Dir2=21036
+
+'Baculo
+[Arma24]
+Dir3=21114
+Dir1=21115
+Dir4=21116
+Dir2=21117
+
+'espada de plata
+[Arma25]
+Dir3=21141
+Dir1=21142
+Dir4=21143
+Dir2=21144
+
+'Cetro de archimago
+[Arma26]
+Dir3=21562
+Dir1=21563
+Dir4=21564
+Dir2=21565
+
+'espada de balrog
+[Arma27]
+Dir3=21589
+Dir1=21590
+Dir4=21591
+Dir2=21592
+
+'daga infernal
+[Arma28]
+Dir3=21616
+Dir1=21617
+Dir4=21618
+Dir2=21619
+
+'daga envenada
+[Arma29]
+Dir3=21643
+Dir1=21644
+Dir4=21645
+Dir2=21646
+
+'daga de hielo
+[Arma30]
+Dir3=21670
+Dir1=21671
+Dir4=21672
+Dir2=21673
+
+'espada AO
+[Arma31]
+Dir3=21697
+Dir1=21698
+Dir4=21699
+Dir2=21700
+
+'arco ao
+[Arma32]
+Dir3=21751
+Dir1=21752
+Dir4=21753
+Dir2=21754
+
+'espada de las almas
+[Arma33]
+Dir3=21724
+Dir1=21725
+Dir4=21726
+Dir2=21727
+
+'Baculo de mifrit
+[Arma34]	
+Dir3=23895
+Dir1=23896
+Dir4=23897
+Dir2=23898
+
+'Cetro Supremo
+[Arma35]	
+Dir3=23995
+Dir1=23996
+Dir4=23997
+Dir2=23998
+
+'Balrog Mejorada
+[Arma36]	
+Dir3=27195
+Dir1=27196
+Dir4=27197
+Dir2=27198
+	
+'Almas Mejorada
+[Arma37]	
+Dir3=27249
+Dir1=27250
+Dir4=27251
+Dir2=27252
+
+'Cetro Poseidon
+[Arma38]	
+Dir3=27276
+Dir1=27277
+Dir4=27278
+Dir2=27279
+
+'Cetro Terraske
+[Arma39]	
+Dir3=27303
+Dir1=27304
+Dir4=27305
+Dir2=27306
+
+'Cetro Erebos
+[Arma40]	
+Dir3=27330
+Dir1=27331
+Dir4=27332
+Dir2=27333
+
+'Cetro Mifrit
+[Arma41]	
+Dir3=27357
+Dir1=27358
+Dir4=27359
+Dir2=27360
+
+'Daga Erebos
+[Arma42]	
+Dir3=27384
+Dir1=27385
+Dir4=27386
+Dir2=27387
+
+'Daga Terraske
+[Arma43]	
+Dir3=27411
+Dir1=27412
+Dir4=27413
+Dir2=27414
+
+'Daga Mifrit
+[Arma44]	
+Dir3=27438
+Dir1=27439
+Dir4=27440
+Dir2=27441
+
+'Daga Poseidon
+[Arma45]	
+Dir3=27465
+Dir1=27466
+Dir4=27467
+Dir2=27468
+
+'Espada Aurum
+[Arma46]	
+Dir3=27899
+Dir1=27900
+Dir4=27901
+Dir2=27902
+
+'Daga Abismal
+[Arma47]	
+Dir3=27926
+Dir1=27927
+Dir4=27928
+Dir2=27929
+
+'Arco Mejorado
+[Arma48]	
+Dir3=27953
+Dir1=27954
+Dir4=27955
+Dir2=27956
+
+'Cetro de Nobleza
+[Arma49]
+Dir3=28168
+Dir1=28169
+Dir4=28170
+Dir2=28171
+
+'Espada de la Nobleza
+[Arma50]	
+Dir3=28358
+Dir1=28359
+Dir4=28360
+Dir2=28361
+
+'Daga de la Nobleza
+[Arma51]
+Dir3=28487
+Dir1=28488
+Dir4=28489
+Dir2=28490
+
+'Espada de Mifrit
+[Arma52]
+Dir3=29112
+Dir1=29113
+Dir4=29114
+Dir2=29115
+
+'Hacha de Mifrit
+[Arma53]
+Dir3=29139
+Dir1=29140
+Dir4=29141
+Dir2=29142
+
+'Espada de Terraske
+[Arma54]
+Dir3=29166
+Dir1=29167
+Dir4=29168
+Dir2=29169
+
+'Espada de Erebros
+[Arma55]
+Dir3=29193
+Dir1=29194
+Dir4=29195
+Dir2=29196
+
+'Espada de Poseidon
+[Arma56]
+Dir3=29220
+Dir1=29221
+Dir4=29222
+Dir2=29223
+
+'Hacha de Terrake
+[Arma57]
+Dir3=29247
+Dir1=29248
+Dir4=29249
+Dir2=29250
+
+'Arco de Terraske
+[Arma58]
+Dir3=29274
+Dir1=29275
+Dir4=29276
+Dir2=29277
+
+'Espada de Poseidon
+[Arma59]
+Dir3=29301
+Dir1=29302
+Dir4=29303
+Dir2=29304
+
+'Arco de Poseidon
+[Arma60]
+Dir3=29328
+Dir1=29329
+Dir4=29330
+Dir2=29331
+
+'Espada de Erebros
+[Arma61]
+Dir3=29355
+Dir1=29356
+Dir4=29357
+Dir2=29358
+
+'Espada de Mifrit
+[Arma62]
+Dir3=29382
+Dir1=29383
+Dir4=29384
+Dir2=29385
+
+'Espada de Erebros
+[Arma63]
+Dir3=29906
+Dir1=29907
+Dir4=29908
+Dir2=29909
+
+'Cetro de Donacion
+[Arma64]	
+Dir3=30163
+Dir1=30164
+Dir4=30165
+Dir2=30166
+
+'Cetro Supremo +2
+[Arma65]	
+Dir3=30238
+Dir1=30239
+Dir4=30240
+Dir2=30241

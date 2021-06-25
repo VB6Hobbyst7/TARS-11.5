@@ -1,0 +1,39 @@
+
+[INIT]
+NumObjs=12
+
+[Obj1] ' BARCA
+Index=474
+
+[Obj2] ' GALERA
+Index=475
+
+[Obj3] ' GALEON
+Index=476
+
+[Obj4] ' BACULO ANCESTRAL
+Index=860
+
+[Obj5] ' FLECHA
+Index=480
+
+[Obj6] ' FLECHA +1
+Index=551
+
+[Obj7] ' FLECHA +2
+Index=552
+
+[Obj8] ' FLECHA +3
+Index=553
+
+[Obj9] ' FLAUTA MAGICA
+Index=540
+
+[Obj10] ' ARCO SIMPLE
+Index=478
+
+[Obj11] ' ARCO COMPUESTO
+Index=479
+
+[Obj12] ' ARCO DE LOS BOSQUES
+Index=1065

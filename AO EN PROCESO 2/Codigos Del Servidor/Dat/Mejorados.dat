@@ -1,0 +1,425 @@
+[INIT]
+NumMejorados=28
+
+[ITEMS]
+Sombrero de Baile=1
+Arco Argentum=2
+Casco de las Sombras=3
+Escudo Soberano=4
+Armadura Heroica (Altos)=5
+Armadura Heroica (Bajos)=6
+Daga Infernal=7
+Escudo de Luz=8
+Escudo de Almas=9
+Sable Espiritual=10
+Espada Argentum=11
+Espada del Balrog=12
+Escudo Tenebroso=13
+Anillo de los Dioses=14
+Cetro de Archimago=15
+Casco de Gladiador=16
+Casco de Luz=17
+Espada de las Almas=18
+Escudo de Dragón=19
+Armadura de Dragón Oscuro (Altos)=20
+Armadura de Dragón Oscuro (Bajos)=21
+Corona=22
+Laúd Mágico=23
+Túnica Apocalíptica (Altos)=24
+Túnica Apocalíptica (Bajos)=25
+Manto Alado (Altos)=26
+Manto Alado (Bajos)=27
+Amuleto de la Hermandad=28
+
+[ITEM1]
+Nombre=Sombrero de Juglar
+NumObj=1521
+Requiere=1494
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=9
+DefensaMaxima=12
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=21
+DefensaMagicaMaxima=25
+Descripcion=No hay ninguna descripción de este objeto.
+
+[ITEM2]
+Nombre=Arco Aurum
+NumObj=1522
+Requiere=1495
+AtaqueMinimo=14
+AtaqueMaximo=16
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=No hay ninguna descripción de este objeto.
+
+[ITEM3]
+Nombre=Casco Triunfal
+NumObj=1523
+Requiere=1496
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=13
+DefensaMaxima=18
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=15
+DefensaMagicaMaxima=18
+Descripcion=No hay ninguna descripción de este objeto.
+
+[ITEM4]
+Nombre=Escudo Mitico
+NumObj=1524
+Requiere=1497
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=17
+DefensaMaxima=17
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=No hay ninguna descripción de este objeto.
+
+[ITEM5]
+Nombre=Armadura Triunfal (Altos)
+NumObj=1525
+Requiere=1498
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=72
+DefensaMaxima=74
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=No hay ninguna descripción de este objeto.
+
+[ITEM6]
+Nombre=Armadura Triunfal (Bajos)
+NumObj=1526
+Requiere=1499
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=72
+DefensaMaxima=74
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=No hay ninguna descripción de este objeto.
+
+[ITEM7]
+Nombre=Daga Abismal
+NumObj=1527
+Requiere=1500
+AtaqueMinimo=13
+AtaqueMaximo=14
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=No hay ninguna descripción de este objeto.
+
+[ITEM8]
+Nombre=Escudo de Lancelot
+NumObj=1528
+Requiere=1501
+AtaqueMinimo=21
+AtaqueMaximo=24
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=4
+DefensaMagicaMaxima=4
+Descripcion=No hay ninguna descripción de este objeto.
+
+[ITEM9]
+Nombre=Escudo de Junglar
+NumObj=1529
+Requiere=1502
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=18
+DefensaMaxima=18
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=No hay ninguna descripción de este objeto.
+
+[ITEM10]
+Nombre=Sable Primordial
+NumObj=1530
+Requiere=1503
+AtaqueMinimo=13
+AtaqueMaximo=12
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=No hay ninguna descripción de este objeto.
+
+[ITEM11]
+Nombre=Espada Aurum
+NumObj=1531
+Requiere=1504
+AtaqueMinimo=25
+AtaqueMaximo=27
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=13
+AtaqueMagicoMaximo=13
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=No hay ninguna descripción de este objeto.
+
+[ITEM12]
+Nombre=Espada de la Maestria
+NumObj=1532
+Requiere=1505
+AtaqueMinimo=25
+AtaqueMaximo=28
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=No hay ninguna descripción de este objeto.
+
+[ITEM13]
+Nombre=Escudo Milagroso
+NumObj=1533
+Requiere=1506
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=21
+DefensaMaxima=21
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=2
+DefensaMagicaMaxima=2
+Descripcion=No hay ninguna descripción de este objeto.
+
+[ITEM14]
+Nombre=Anillo del Origen
+NumObj=1534
+Requiere=1507
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=70
+DefensaMaxima=72
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=16
+DefensaMagicaMaxima=19
+Descripcion=No hay ninguna descripción de este objeto.
+
+[ITEM15]
+Nombre=Cetro Supremo
+NumObj=1535
+Requiere=1508
+AtaqueMinimo=1
+AtaqueMaximo=1
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=31
+AtaqueMagicoMaximo=36
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=No hay ninguna descripción de este objeto.
+
+[ITEM16]
+Nombre=Casco de Guerra
+NumObj=1536
+Requiere=1509
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=11
+DefensaMaxima=16
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=13
+DefensaMagicaMaxima=16
+Descripcion=No hay ninguna descripción de este objeto.
+
+[ITEM17]
+Nombre=Casco Purificado
+NumObj=1537
+Requiere=1510 
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=30
+DefensaMaxima=30
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=No hay ninguna descripción de este objeto.
+
+[ITEM18]
+Nombre=Purgadoras de las Almas
+NumObj=1538
+Requiere=1511
+AtaqueMinimo=18
+AtaqueMaximo=21
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=13
+AtaqueMagicoMaximo=13
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=No hay ninguna descripción de este objeto.
+
+[ITEM19]
+Nombre=Escudo del Rey Dragon 
+NumObj=1539
+Requiere=1512
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=24
+DefensaMaxima=26
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=No hay ninguna descripción de este objeto.
+
+[ITEM20]
+Nombre=Armadura del Rey Dragon (Altos)
+NumObj=1540
+Requiere=1513
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=73
+DefensaMaxima=70
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=No hay ninguna descripción de este objeto.
+
+[ITEM21]
+Nombre=Armadura del Rey Dragon (Bajos)
+NumObj=1541
+Requiere=1514
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=73
+DefensaMaxima=70
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=No hay ninguna descripción de este objeto.
+
+[ITEM22]
+Nombre=Corona Alada
+NumObj=1542
+Requiere=1515
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=1
+DefensaMaxima=1
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=16
+DefensaMagicaMaxima=19
+Descripcion=No hay ninguna descripción de este objeto.
+
+[ITEM23]
+Nombre=Laúd Electrico
+NumObj=1543
+Requiere=1516
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=21
+AtaqueMagicoMaximo=26
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=No hay ninguna descripción de este objeto.
+
+[ITEM24]
+Nombre=Túnica Apocaliptica Erebea (Altos)
+NumObj=1544
+Requiere=1517
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=16
+DefensaMaxima=26
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=16
+DefensaMagicaMaxima=21
+Descripcion=No hay ninguna descripción de este objeto.
+
+[ITEM25]
+Nombre=Túnica Apocaliptica Erebea (Bajos)
+NumObj=1545
+Requiere=1518
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=16
+DefensaMaxima=26
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=16
+DefensaMagicaMaxima=21
+Descripcion=No hay ninguna descripción de este objeto.
+
+[ITEM26]
+Nombre=Manto Alado de Sangre (Altos)
+NumObj=1546
+Requiere=1519
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=46
+DefensaMaxima=51
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=11
+DefensaMagicaMaxima=16
+Descripcion=No hay ninguna descripción de este objeto.
+
+[ITEM27]
+Nombre=Manto Alado de Sangre (Bajos)
+NumObj=1547
+Requiere=1520
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=46
+DefensaMaxima=51
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=11
+DefensaMagicaMaxima=16
+Descripcion=No hay ninguna descripción de este objeto.
+
+[ITEM28]
+Nombre=Amuleto de la Gran Familia
+NumObj=1482
+Requiere=1481
+AtaqueMinimo=0
+AtaqueMaximo=0
+DefensaMinima=0
+DefensaMaxima=0
+AtaqueMagicoMinimo=0
+AtaqueMagicoMaximo=0
+DefensaMagicaMinima=0
+DefensaMagicaMaxima=0
+Descripcion=No hay ninguna descripción de este objeto.
+

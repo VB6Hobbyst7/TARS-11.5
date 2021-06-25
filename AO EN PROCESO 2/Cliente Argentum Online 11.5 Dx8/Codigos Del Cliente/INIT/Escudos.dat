@@ -1,0 +1,160 @@
+'Oso: NO USEN EL ESCUDO 2 (Es "No Animar" ^^)
+
+[INIT]
+NumEscudos=27
+
+[ESC1]
+Dir1=4727
+Dir2=4729
+Dir3=4726
+Dir4=4728
+
+[ESC3]
+Dir3=902
+Dir1=903
+Dir4=904
+Dir2=905
+
+[ESC4]
+Dir3=928
+Dir1=929
+Dir4=930
+Dir2=931
+
+[ESC5]
+Dir3=13278
+Dir1=13279
+Dir4=13280
+Dir2=13281
+
+[ESC6]
+Dir3=4856
+Dir1=4857
+Dir4=4858
+Dir2=4859
+
+[ESC7] 'escudo nocturno
+Dir3=20439
+Dir1=20440
+Dir4=20441
+Dir2=20442
+
+[ESC8] 'escudo del aura
+Dir3=20601
+Dir1=20602
+Dir4=20603
+Dir2=20604
+
+[ESC9] 'escudo espectral
+Dir3=20682
+Dir1=20683
+Dir4=20684
+Dir2=20685
+
+[ESC10] 'escudo clerical
+Dir3=20844
+Dir1=20845
+Dir4=20846
+Dir2=20847
+
+[ESC11] 'escudo de leon
+Dir3=21222
+Dir1=21223
+Dir4=21224
+Dir2=21225
+
+[ESC12] 'escudo dragón
+Dir3=21508
+Dir1=21509
+Dir4=21510
+Dir2=21511
+
+[ESC13] 'escudo tenebroso
+Dir3=21535
+Dir1=21536
+Dir4=21537
+Dir2=21538
+
+[ESC14] 'escudo de poseidon
+Dir3=27006
+Dir1=27007
+Dir4=27008
+Dir2=27009
+
+[ESC15] 'escudo de mifrit
+Dir3=27033
+Dir1=27034
+Dir4=27035
+Dir2=27036
+
+[ESC16] 'escudo de terraske
+Dir3=27060
+Dir1=27061
+Dir4=27062
+Dir2=27063
+
+[ESC17] 'escudo de erebos
+Dir3=27087
+Dir1=27088
+Dir4=27089
+Dir2=27090
+
+[ESC18] 'escudo de mifrit
+Dir3=27114
+Dir1=27115
+Dir4=27116
+Dir2=27117
+
+[ESC19] 'escudo de terraske
+Dir3=27141
+Dir1=27142
+Dir4=27143
+Dir2=27144
+
+[ESC20] 'escudo de poseidon
+Dir3=27168
+Dir1=27169
+Dir4=27170
+Dir2=27171
+
+[ESC21] 'escudo de dragon mejorado
+Dir3=27739
+Dir1=27740
+Dir4=27741
+Dir2=27742
+
+[ESC22] 'escudo tenebroso mejorado
+Dir3=27819
+Dir1=27820
+Dir4=27821
+Dir2=27822
+
+[ESC23] 'escudo tenebroso
+Dir1=28215
+Dir2=28217
+Dir3=28214
+Dir4=28216
+
+[ESC24] 'escudo legionario
+Dir1=28242
+Dir2=28244
+Dir3=28241
+Dir4=28243
+
+[ESC25] 'escudo de Nobleza
+Dir1=28332
+Dir2=28334
+Dir3=28331
+Dir4=28333
+
+[ESC26] 'escudo de Erebros
+Dir1=29072
+Dir2=29074
+Dir3=29071
+Dir4=29073
+
+[ESC27] 'escudo de Druida
+Dir1=29880
+Dir2=29882
+Dir3=29879
+Dir4=29881

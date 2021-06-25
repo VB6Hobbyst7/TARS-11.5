@@ -1,0 +1,12 @@
+[MAP200]
+Name=Dios GM
+MusicNum=104
+MagiaSinefecto=1
+InviSinEfecto=1
+ResuSinEfecto=1
+NoEncriptarMP=1
+Terreno=BOSQUE
+Zona=CIUDAD
+Restringir=No
+BackUp= 1
+Pk=0
